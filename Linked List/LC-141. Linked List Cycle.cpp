@@ -1,4 +1,5 @@
 #include "node.h"
+//test
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
